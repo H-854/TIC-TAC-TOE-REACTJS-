@@ -1,6 +1,14 @@
-.square{
-    width: 5rem;
-    height: 5rem;
-    border: 1px solid white;
-    border-radius: 0%;
-}
+
+.square {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    cursor: pointer;
+    box-sizing: border-box;
+    color: #eaeaea;
+    border: 3px solid #4169E1;
+    border-radius: 1rem;
+    background-color: #191970;
+    font-size: xx-large;
+    font-weight: 600;
+  }
